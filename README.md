@@ -44,7 +44,7 @@ Full step-by-step activities with screenshots are available below:
 - [Day 1 Activity](pdfs/Day1.pdf)  
 - [Day 2 Activity](pdfs/Day2.pdf)  
 - [Day 3 Activity](pdfs/Day3.pdf)  
-> Alternatively, if using a single file:
+> Alternatively, if using a interactive slides view:
 >
 > * [Complete Project Slides](https://docs.google.com/presentation/d/1A1z8U6bcCu_wmaj6b5EyZ_AnFG9tPZj29-IOhraUB8c/edit?usp=sharing)
 
