@@ -1,4 +1,4 @@
-# Secure Azure Docker Blog
+# Personal Dockerized Blog Deployment on Azure
 
 ## Overview
 This project demonstrates the end-to-end deployment of a Dockerized blog application on Microsoft Azure, with a strong focus on security and cloud best practices.
