@@ -44,7 +44,9 @@ Full step-by-step activities with screenshots are available below:
 - [Day 1 Activity](pdfs/Day1.pdf)  
 - [Day 2 Activity](pdfs/Day2.pdf)  
 - [Day 3 Activity](pdfs/Day3.pdf)  
-- [Complete Project Documentation](pdfs/CompleteProject.pdf)  
+> Alternatively, if using a single file:
+>
+> * [Complete Project Documentation](./Day_Activity.pdf)
 
 ---
 
